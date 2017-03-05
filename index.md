@@ -10,7 +10,6 @@ I am a senior undergraduate student pursuing (B.Tech + M.Tech) at Electrical Eng
 
 Last summer, I did my internship at Microsoft research. Currently, I am looking for internship opportunity for the next summer.
 
-Bla
 
 ----
 <h4 align="center">Affiliations</h4>
